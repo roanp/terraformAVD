@@ -1,5 +1,5 @@
 user_principal_names = [
-  "roan@nerdiomanagerdemo.com"
+  "roan@roanpaes.com"
   
 ]
 location                = "East US"
